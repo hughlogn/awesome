@@ -3,6 +3,7 @@
 
 ## 目录
 - [工具](#工具)
+  - [文件共享](#文件共享)
   - [内网穿透](#内网穿透)
 - [别人的 awesome](#别人的awesome)
 
@@ -11,6 +12,7 @@
 ### 工具
 
 #### 文件共享
+- [Syncthing](https://github.com/syncthing/syncthing) 文件同步工具
 - [LocalSend](https://github.com/localsend/localsend) 开源的跨平台文件本地共享应用
 
 #### 内网穿透
