@@ -15,6 +15,7 @@
 
 #### 内网穿透
 - [frp](https://github.com/fatedier/frp) 开源、简单、高效的内网穿透工具
+- [frpmgr](https://github.com/koho/frpmgr) 另外一个大佬做的 Windows 下的 frp 图形界面客户端
 
 ### 别人的awesome
 - [ggGitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) 微信公众号 @逛逛GitHub 的 awesome
