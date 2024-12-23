@@ -11,6 +11,9 @@
 
 ### 工具
 
+#### 命令行
+- [thefuck](https://github.com/nvbn/thefuck) 命令纠正工具
+
 #### 文件共享
 - [Syncthing](https://github.com/syncthing/syncthing) 文件同步工具
 - [LocalSend](https://github.com/localsend/localsend) 开源的跨平台文件本地共享应用
