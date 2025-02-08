@@ -16,6 +16,7 @@
 - [frp](https://github.com/fatedier/frp) 开源、简单、高效的内网穿透工具
 - [frpmgr](https://github.com/koho/frpmgr) 另外一个大佬做的 Windows 下的 frp 图形界面客户端
 - [syncthing](https://github.com/syncthing/syncthing) 一款用于文件同步的开源工具，它能够在不同设备之间实现文件的自动同步
+- [v2ray](https://github.com/2dust?tab=repositories) 魔法工具
 
 #### 文件共享
 - [LocalSend](https://github.com/localsend/localsend) 开源的跨平台文件本地共享应用
