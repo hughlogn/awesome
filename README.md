@@ -30,3 +30,4 @@
 
 ### 别人的awesome
 - [ggGitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo) 微信公众号 @逛逛GitHub 的 awesome
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac) jaywcjlove 的关于 MacOS 系统用到的 awesome
